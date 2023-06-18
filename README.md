@@ -1,2 +1,2 @@
 # 6ees6ees6ees
-This is a project that I worked as a Hack Reator student.
+This is a project that I completed with a pair in Hack Reator.
